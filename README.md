@@ -1,2 +1,2 @@
-# CSDS-132-Final-Project
-Tsuro board game project for Intro to Java 
+# Tsuro Board Game Clone 
+Tsuro board game project for Programming in Java
